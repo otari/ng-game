@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "id": "cards",
+            "src": "./data/cards.json",
+            "type": "spritesheet"
+        },
+        {
+            "id": "roulette",
+            "src": "./assets/images/roulette.png"
+        }
+    ]
+}
